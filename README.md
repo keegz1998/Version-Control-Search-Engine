@@ -4,7 +4,7 @@
 <div align="center">
   <h3 align="center">Version Control Search Engine Backend</h3>
   <p align="center">
-    A React JS based web application used to monitor the prices and recent news of multiple different cryptocurrencies.
+    A NodeJS backend using Javascript and Express JS to retrieve information of users on various version control sites, using their API's.
     <br />
     <a href="https://github.com/keegz1998"><strong>Find more projects from me »</strong></a>
     <br />
