@@ -44,7 +44,7 @@ This project is the backend for a version control search engine which allows a u
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
 
 * [NodeJS](https://nodejs.org/en/)
 * [ExpressJS](https://expressjs.com/)
