@@ -1,0 +1,24 @@
+{
+  "name": "vcs-app",
+  "version": "1.0.0",
+  "description": "Web app to search for user information across various version control web apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon vcs-app-proxy-server.js",
+    "test": "mocha"
+  },
+  "author": "Keegan Bagnall",
+  "license": "ISC",
+  "dependencies": {
+    "es6-promise": "4.2.8",
+    "express": "4.17.1",
+    "helmet": "4.5.0",
+    "isomorphic-fetch": "3.0.0",
+    "nodemon": "2.0.7",
+    "request": "2.88.2"
+  },
+  "devDependencies": {
+    "chai": "4.3.4",
+    "mocha": "8.3.2"
+  }
+}
